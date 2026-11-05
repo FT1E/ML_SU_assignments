@@ -1,5 +1,10 @@
 
+
+
 *.stackdump
 *.pdf
 *.csv
 	
+*.zip
+*.names
+*.data
